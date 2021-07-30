@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BigDataIdeConnectionSettings">
+    <option name="connections">
+      <list>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAQ0U6XEphdmEgYW5kIFVNTCBDb3Vyc2VcSlVQQUk2LU1hdmVuIGFuZCBYQ2hhcnRzIEludGVncmF0aW9uXGFyY2hpdmU=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@-5391230762304231745" />
+          <option name="name" value="Session6" />
+          <option name="perProject" value="true" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+      </list>
+    </option>
+  </component>
+</project>
